@@ -1,0 +1,24 @@
+	.navbar-custom { 
+    background-color: #2D7CF1; 
+} 
+	.navbar-custom .navbar-brand,.navbar-custom .navbar-text,.navbar-toggler{ 
+            color: white; 
+        }
+        .frm{
+        	margin-left:5%;
+        }
+       
+       .loginmargin{
+       	margin-left:"10px";
+       }
+       .mainbody{
+       	margin-top:5%;
+       	background-color: #D6E7FF;
+       }
+       bdy{
+       	background-color: #D6E7FF
+       }
+       .bgig{
+        background-image: url('firstpage.jpg');
+        background-size: 100% 100%
+       }
